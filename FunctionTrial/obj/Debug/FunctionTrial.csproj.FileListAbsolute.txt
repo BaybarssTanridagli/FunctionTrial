@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\FunctionTrial\FunctionTrial\bin\Debug\FunctionTrial.exe.config
+C:\Users\Lenovo\source\repos\FunctionTrial\FunctionTrial\bin\Debug\FunctionTrial.exe
+C:\Users\Lenovo\source\repos\FunctionTrial\FunctionTrial\bin\Debug\FunctionTrial.pdb
+C:\Users\Lenovo\source\repos\FunctionTrial\FunctionTrial\obj\Debug\FunctionTrial.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\FunctionTrial\FunctionTrial\obj\Debug\FunctionTrial.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FunctionTrial\FunctionTrial\obj\Debug\FunctionTrial.exe
+C:\Users\Lenovo\source\repos\FunctionTrial\FunctionTrial\obj\Debug\FunctionTrial.pdb

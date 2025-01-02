@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\FunctionTrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00F21494-3715-41B8-8F9E-29E5924800AF}|FunctionTrial\\FunctionTrial.csproj|c:\\users\\lenovo\\source\\repos\\functiontrial\\functiontrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F21494-3715-41B8-8F9E-29E5924800AF}|FunctionTrial\\FunctionTrial.csproj|solutionrelative:functiontrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FunctionTrial\\FunctionTrial\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionTrial\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FunctionTrial\\FunctionTrial\\Program.cs",
+              "RelativeToolTip": "FunctionTrial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:39:35.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
